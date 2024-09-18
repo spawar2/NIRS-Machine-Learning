@@ -7,3 +7,4 @@ In collaboration with *Aryan Shrivastav, sophomore at Amity Regional High School
 Dataset: The International Skin Imaging Collaboration, https://www.isic-archive.com/
 Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
+https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
