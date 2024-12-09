@@ -1,5 +1,5 @@
 # NIRS-Machine-Learning.
-December, 9, 2024.
+Date created/updated: December, 9, 2024.
 Hemoglobin and cancerous mole monitoring using near-infrared spectroscopy (NIRS), image analysis techniques, and machine learning.
 
 In collaboration with *Aryan Shrivastav, sophomore at Amity  Science Research Program Regional High School in Woodbridge, Connecticut, United States of America (USA). https://github.com/AryanS-0101
