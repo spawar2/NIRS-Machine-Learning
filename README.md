@@ -9,3 +9,6 @@ Dataset: The International Skin Imaging Collaboration, https://www.isic-archive
 Claflin University, Orangeburg, South Carolina, USA. 
 https://www.claflin.edu/
 https://www.claflin.edu/academics-research/schools-departments/school-of-natural-sciences-and-mathematics/department-of-mathematics-computer-science/computer-science
+<img width="298" alt="Screenshot 2025-01-29 at 3 05 24 PM" src="https://github.com/user-attachments/assets/dfacdd55-4e8b-4bd5-b535-7847c2e75ebc" />
+
+![Aryan Shrivastav - Poster Presentation PDF](https://github.com/user-attachments/assets/9692f246-9f54-4e25-af8f-e1d252b8e603)
